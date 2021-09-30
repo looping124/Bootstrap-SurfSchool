@@ -1,0 +1,62 @@
+.my-jumbotron{
+  background-image: url(images/surf-image.jpg);
+  background-size: cover;
+  background-position: center;
+  
+  max-height: 500px;
+  min-height: 200px;
+  height: 60vh;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+}
+
+.my-central-text{
+  text-align: center;
+
+}
+
+/* .my-points{
+  border: 1px solid green;
+  
+  
+}
+
+.my-row{
+  border: 3px solid red;
+  
+}
+
+.my-col{
+  border: 3px dotted blue;
+  
+}
+h1{
+  border: 3px dotted black;
+  
+} */
+
+.my-logo
+{
+  max-height: 80px;
+}
+/* .my-portrait
+{
+  max-height: 200px;
+} */
+
+.my-grey{
+  border: 2px solid #f9f9f9;
+  
+}
+/* .my-row{
+  border: 3px solid red;
+  
+} */
+/* .my-temoignages{
+  margin: 0px;
+} */
+
+.card{
+  padding: 0px;
+}
